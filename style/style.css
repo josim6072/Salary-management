@@ -1,0 +1,24 @@
+/* style for all label */
+label{
+    width: 60px;
+}
+/* style for form  */
+
+.form-part{
+    background-color: lightcyan;
+}
+/* all button text color  */
+.button{
+    color: white;
+}
+/* disable error message  */
+#error-message{
+    color: red;
+    font-size: large;
+    display: none;
+}
+#error-message2{
+    color: red;
+    font-size: large;
+    display: none;
+}
